@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4c9dd5d766ceec47a5a06586168a859, type: 3}
+  m_Name: CheckIfPauseForQuestionnaire
+  m_EditorClassIdentifier: 
+  transitions:
+  - title: Skip Questionnaire
+    targetState: {fileID: 11400000, guid: bb06e470b3a9b3242ac56d49fbea606d, type: 2}
+    condition: {fileID: 11400000, guid: 6ebaa83d5e579dd4794efde4a07ea0a0, type: 2}
+    onTransitionConditionMet:
+      m_PersistentCalls:
+        m_Calls: []
+  - title: Do Questionnaire
+    targetState: {fileID: 11400000, guid: b51c4f33c3a9da94b8787368092b335b, type: 2}
+    condition: {fileID: 11400000, guid: 0498642e319557e4f92e96a8ff059b24, type: 2}
+    onTransitionConditionMet:
+      m_PersistentCalls:
+        m_Calls: []
+  onEnter:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: df5fc7045c6b54d42a00307faca8b49c, type: 2}
+        m_TargetAssemblyTypeName: Obvious.Soap.ScriptableEventNoParam, Obvious.Soap
+        m_MethodName: Raise
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  onExit:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 62d88e617f9073f40913fee2b5849312, type: 2}
+        m_TargetAssemblyTypeName: Obvious.Soap.ScriptableEventNoParam, Obvious.Soap
+        m_MethodName: Raise
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  AutoExit: 0

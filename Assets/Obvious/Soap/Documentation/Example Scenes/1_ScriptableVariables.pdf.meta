@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea2a8630d2a52a441bf4ece89aa3d091
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232107
+  packageName: Soap - ScriptableObject Architecture Pattern
+  packageVersion: 3.2.1
+  assetPath: Assets/Obvious/Soap/Documentation/Example Scenes/1_ScriptableVariables.pdf
+  uploadId: 693242

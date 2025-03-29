@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de970f522caea8a40a39230d273be991, type: 3}
+  m_Name: ParallelAnchor
+  m_EditorClassIdentifier: 
+  AnchorType: Parallel
+  defaultDistance: 1
+  minimumHeadDistance: 0.2
+  raycastTargetSize: {x: 4, y: 2, z: 1}
+  filterData: {fileID: 11400000, guid: dd5feb4eaf152f14e8dfd33ff1cf8c2a, type: 2}
+  headZoomCurrentDistance: {fileID: 11400000, guid: df56ccd85965f8546b819b6e3d61a48f, type: 2}
+  headZoomForwardDistance: {fileID: 11400000, guid: 9c285f6d8e80485469a9a28b4a81c43d, type: 2}
+  headZoomNegativeDistance: {fileID: 11400000, guid: 5eb10cc5f3080ab478de9b3357f872f3, type: 2}
+  defaultHeadPosition: {fileID: 11400000, guid: bf420e3190cfe1e4a94f153c78b8ae80, type: 2}
+  defaultHeadForward: {fileID: 11400000, guid: 530bcbe905ab66f44bdc2b2506cbd475, type: 2}
+  headPosition: {fileID: 11400000, guid: e21029b050201d5458507b753ca0662d, type: 2}
+  headForward: {fileID: 11400000, guid: fc3eaf7e61b40dd4e90ff14050e00ed6, type: 2}
+  headUp: {fileID: 11400000, guid: 7e9a52b51912c6944ad382e2f9f3c01c, type: 2}
+  raycastWorldHit: {fileID: 11400000, guid: 30c8997478389f14a94251a9197da0fd, type: 2}
+  raycastLocalHit: {fileID: 11400000, guid: 7604d37cc20a7a546b4cbca57716a59b, type: 2}
+  percentage: {fileID: 11400000, guid: 133316f5f220235419a0c72e5678afc5, type: 2}

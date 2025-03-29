@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 70b20e71c1677104e8387f4b8e6fcbb6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232107
+  packageName: Soap - ScriptableObject Architecture Pattern
+  packageVersion: 3.2.1
+  assetPath: Assets/Obvious/Soap/Documentation/Example Scenes/2_Bindings.pdf
+  uploadId: 693242

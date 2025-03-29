@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f339f358a73f8c04c998b8c276f6725c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232107
+  packageName: Soap - ScriptableObject Architecture Pattern
+  packageVersion: 3.2.1
+  assetPath: Assets/Obvious/Soap/Documentation/Example Scenes/5_ScriptableSaves.pdf
+  uploadId: 693242

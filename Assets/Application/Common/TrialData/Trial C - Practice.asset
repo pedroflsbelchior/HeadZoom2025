@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee6d37ca31620044bbb2ce99c6c74b87, type: 3}
+  m_Name: Trial C - Practice
+  m_EditorClassIdentifier: 
+  _images:
+  - {fileID: 11400000, guid: ab0269f5522c73e43a53d906e9a7b270, type: 2}
+  - {fileID: 11400000, guid: ab0269f5522c73e43a53d906e9a7b270, type: 2}
+  - {fileID: 11400000, guid: ab0269f5522c73e43a53d906e9a7b270, type: 2}
+  _anchors:
+  - {fileID: 11400000, guid: 0283adcd0067f7d45a98a3564169c702, type: 2}
+  - {fileID: 11400000, guid: 29d3ac329674b7b46951df8257987299, type: 2}
+  - {fileID: 11400000, guid: 3312fcb752efa0d489c861db02adc1b2, type: 2}
+  imagesPerAnchor: 1
+  secondsPerImage: 0
+  triesPerImage: 0
+  RandomizeAnchorOrder: 0
+  RandomizeImageOrder: 0
+  PauseForQuestionnaire: 0
+  hitRadius: 0.06
+  RecordData: 0
+  RecordVideo: 0
+  isRunning: 0

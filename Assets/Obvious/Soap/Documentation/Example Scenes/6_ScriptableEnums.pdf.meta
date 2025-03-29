@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 99feb00ed0112bb43b95143c30850faf
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232107
+  packageName: Soap - ScriptableObject Architecture Pattern
+  packageVersion: 3.2.1
+  assetPath: Assets/Obvious/Soap/Documentation/Example Scenes/6_ScriptableEnums.pdf
+  uploadId: 693242

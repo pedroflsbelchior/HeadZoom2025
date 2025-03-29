@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 85ead7841eae263498de48de6d15058f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232107
+  packageName: Soap - ScriptableObject Architecture Pattern
+  packageVersion: 3.2.1
+  assetPath: Assets/Obvious/Soap/Documentation/Example Scenes/8_RuntimeVariables.pdf
+  uploadId: 693242
