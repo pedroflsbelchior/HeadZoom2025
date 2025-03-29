@@ -14,5 +14,5 @@ This prototype was build on Unity 6 version 43+ and requires the following asset
 
 Voice clips were synthesized using Google Cloud's Text-to-Speech service.
 
-If you own and install the AVPro Movie Capture asset, uncomment the appropriate lines in the file AVProConnector.cs
-If you own and install the Shapes asset, uncomment the appropriate lines in the files EyeTrackingTarget.cs and FloorAndCeilingGrid.cs
+- If you own and install the AVPro Movie Capture asset, uncomment the appropriate lines in the file AVProConnector.cs
+- If you own and install the Shapes asset, uncomment the appropriate lines in the files EyeTrackingTarget.cs and FloorAndCeilingGrid.cs
